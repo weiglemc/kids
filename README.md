@@ -33,6 +33,8 @@
 ## Misc Educational 
 * ABCya! - https://www.abcya.com/
 * Scholastic Learn at Home - https://classroommagazines.scholastic.com/support/learnathome.html
+* List of educational resources available the [Internet Archive](https://www.archive.org) - https://blog.archive.org/2020/03/11/schools-out-or-is-it/
+* Old-school educational games at the Internet Archive (including [Oregon Trail](https://archive.org/details/msdos_Oregon_Trail_The_1990) and [Where in the World is Carmen Sandiego](https://archive.org/details/msdos_Where_in_the_World_is_Carmen_Sandiego_Enhanced_1989)!) - https://archive.org/details/softwarelibrary_kids
 
 ## Virtual Field Trips
 * San Diego Zoo - https://kids.sandiegozoo.org/
