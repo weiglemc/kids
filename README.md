@@ -36,7 +36,7 @@
 
 ## Virtual Field Trips
 * San Diego Zoo - https://kids.sandiegozoo.org/
-** live animal cams - https://zoo.sandiegozoo.org/live-cams
+  * live animal cams - https://zoo.sandiegozoo.org/live-cams
 * Monterey Bay Aquarium animal cams - https://www.montereybayaquarium.org/animals/live-cams
 * Atlanta Zoo's panda cam - https://zooatlanta.org/panda-cam/
 * Houston Zoo animal cams - https://www.houstonzoo.org/explore/webcams/
