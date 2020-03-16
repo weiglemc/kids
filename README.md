@@ -2,18 +2,10 @@
 
 ## Chesapeake Public Schools Learning Plans
 * https://cpschools.com/emergency-learning-plans/
-* Second Grade 
-  * <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-2.pdf">Learning Plan - Second Grade (Reading)</a>
-  * <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Second-Grade-Math-Final.pdf">Learning Plan - Second Grade (Math)</a>
-* Third Grade
-  * <a href="https://cpschools.com/wp-content/uploads/2020/03/Learning-Plan-Third-Grade-Reading-Combined.pdf">Learning Plan - Third Grade (Reading)</a>
-  * <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Third-Grade-Math-Final.pdf">Learning Plan - Third Grade (Math)</a>
-* Fifth Grade
-  * <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-5_Combined.pdf">Learning Plan - Fifth Grade (Reading)</a>
-  * <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Fifth-Grade-Math-Final.pdf">Learning Plan - Fifth Grade (Math)</a>
-* Sixth Grade
-  * <a href="https://cpschools.com/wp-content/uploads/2020/03/Math-6-Emergency-Closing-Learning-Plan.pdf">Learning Plan - Sixth Grade (Math)</a>
-  * <a href="https://cpschools.com/wp-content/uploads/2020/03/MIDDLE-SCHOOL-ENGLISH-EMERGENCY-CLOSING-LEARNING-PLAN-.pdf">Learning Plan - Grades 6-8 (English)</a>
+* Second Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-2.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Second-Grade-Math-Final.pdf">Math</a>
+* Third Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/Learning-Plan-Third-Grade-Reading-Combined.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Third-Grade-Math-Final.pdf">Math</a>
+* Fifth Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-5_Combined.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Fifth-Grade-Math-Final.pdf">Math</a>
+* Sixth Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/Math-6-Emergency-Closing-Learning-Plan.pdf">Math</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/MIDDLE-SCHOOL-ENGLISH-EMERGENCY-CLOSING-LEARNING-PLAN-.pdf">English</a>
 
 ## Reading 
 * Celebrities read stories - https://www.storylineonline.net/ (use the Vimeo player for ad-free)
