@@ -56,5 +56,9 @@
 * Uffizi Gallery, Florence, Italy - https://artsandculture.google.com/partner/uffizi-gallery?hl=en
 
 ## Art
+* Doodles with Mo Willems, live every weekday at 1pm ET (and available afterwards) - https://www.kennedy-center.org/education/mo-willems/
 * Free art lessons on Facebook (2pm ET) - https://www.facebook.com/makepaducah/
 * 30 days of Lego challenges - https://thatbricklife.com/lego-challenge-30-days-of-play-calendar/
+
+## Coding
+* Big list of coding apps - https://codewizardshq.com/coding-for-kids-free/
