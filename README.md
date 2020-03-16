@@ -1,11 +1,21 @@
 # Kids Educational Resources
 
-## Reading Websites
-
+## Reading 
 * Celebrities read stories - https://www.storylineonline.net/ (use the Vimeo player for ad-free)
 * International Children's Reading Library - http://en.childrenslibrary.org/
 
-## Misc Educational Websites
+## Math
+* Illuminations (National Council of Teachers of Math) - https://illuminations.nctm.org
+* Arithmetic Four - http://www.shodor.org/interactivate/activities/ArithmeticFour/
+* Figure Four - https://figurethis.nctm.org/index.html
+* FunBrain - https://www.funbrain.com
+* Math Game Time - http://www.mathgametime.com
+* Math Playground - https://www.mathplayground.com
+* Mr. N365 - https://mrn365.com
+* Toy Theater - http://toytheater.com
+* Jefferson Lab Science Education - https://education.jlab.org/indexpages/elementgames.html
+
+## Misc Educational 
 * ABCya! - https://www.abcya.com/
 * Scholastic Learn at Home - https://classroommagazines.scholastic.com/support/learnathome.html
 
