@@ -4,7 +4,7 @@
 * https://cpschools.com/emergency-learning-plans/
 * Second Grade 
   * <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-2.pdf">Learning Plan - Second Grade (Reading)</a>
- 	* <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Second-Grade-Math-Final.pdf">Learning Plan - Second Grade (Math)</a>
+  * <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Second-Grade-Math-Final.pdf">Learning Plan - Second Grade (Math)</a>
 * Third Grade
   * <a href="https://cpschools.com/wp-content/uploads/2020/03/Learning-Plan-Third-Grade-Reading-Combined.pdf">Learning Plan - Third Grade (Reading)</a>
   * <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Third-Grade-Math-Final.pdf">Learning Plan - Third Grade (Math)</a>
