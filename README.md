@@ -3,10 +3,10 @@
 ## Chesapeake Public Schools Learning Plans
 * https://cpschools.com/emergency-learning-plans/
 * Second Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-2.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Second-Grade-Math-Final.pdf">Math</a>
-  * [access ebooks through GBP library](https://docs.google.com/presentation/d/1_k_qVQPJIKT0-6KJ0sok9803wJpFeuI-nvx7LHqPBKU/edit?usp=sharing&fbclid=IwAR1IlziGR9sGFWgA8gk8W2xrRLAjM7QZfU_-AXaPH4Wx-lWq4PDGnYm4sD4)
 * Third Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/Learning-Plan-Third-Grade-Reading-Combined.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Third-Grade-Math-Final.pdf">Math</a>
 * Fifth Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-5_Combined.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Fifth-Grade-Math-Final.pdf">Math</a>
 * Sixth Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/Math-6-Emergency-Closing-Learning-Plan.pdf">Math</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/MIDDLE-SCHOOL-ENGLISH-EMERGENCY-CLOSING-LEARNING-PLAN-.pdf">English</a>
+* [access ebooks from CPS library](https://chesapeakeps.follettdestiny.com/common/servlet/presenthomeform.do?l2m=Home&tm=Home&l2m=Home)
 
 ## Misc Educational 
 * PBS Learning Modules - https://www.pbslearningmedia.org/student/
