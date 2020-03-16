@@ -7,6 +7,13 @@
 * Fifth Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-5_Combined.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Fifth-Grade-Math-Final.pdf">Math</a>
 * Sixth Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/Math-6-Emergency-Closing-Learning-Plan.pdf">Math</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/MIDDLE-SCHOOL-ENGLISH-EMERGENCY-CLOSING-LEARNING-PLAN-.pdf">English</a>
 
+## Misc Educational 
+* PBS Learning Modules - https://www.pbslearningmedia.org/student/
+* ABCya! - https://www.abcya.com/
+* Scholastic Learn at Home - https://classroommagazines.scholastic.com/support/learnathome.html
+* List of educational resources available the [Internet Archive](https://www.archive.org) - https://blog.archive.org/2020/03/11/schools-out-or-is-it/
+* Old-school educational games at the Internet Archive (including [Oregon Trail](https://archive.org/details/msdos_Oregon_Trail_The_1990) and [Where in the World is Carmen Sandiego](https://archive.org/details/msdos_Where_in_the_World_is_Carmen_Sandiego_Enhanced_1989)!) - https://archive.org/details/softwarelibrary_kids
+
 ## Reading 
 * Celebrities read stories - https://www.storylineonline.net/ (use the Vimeo player for ad-free)
 * International Children's Reading Library - http://en.childrenslibrary.org/
@@ -20,13 +27,10 @@
 * Math Playground - https://www.mathplayground.com
 * Mr. N365 - https://mrn365.com
 * Toy Theater - http://toytheater.com
-* Jefferson Lab Science Education - https://education.jlab.org/indexpages/elementgames.html
 
-## Misc Educational 
-* ABCya! - https://www.abcya.com/
-* Scholastic Learn at Home - https://classroommagazines.scholastic.com/support/learnathome.html
-* List of educational resources available the [Internet Archive](https://www.archive.org) - https://blog.archive.org/2020/03/11/schools-out-or-is-it/
-* Old-school educational games at the Internet Archive (including [Oregon Trail](https://archive.org/details/msdos_Oregon_Trail_The_1990) and [Where in the World is Carmen Sandiego](https://archive.org/details/msdos_Where_in_the_World_is_Carmen_Sandiego_Enhanced_1989)!) - https://archive.org/details/softwarelibrary_kids
+## Science
+* Jefferson Lab Science Education - https://education.jlab.org/indexpages/elementgames.html
+* Global Weirding video series with Dr. Katharine Hayhoe - https://www.youtube.com/channel/UCi6RkdaEqgRVKi3AzidF4ow
 
 ## Virtual Field Trips
 * San Diego Zoo - https://kids.sandiegozoo.org/
