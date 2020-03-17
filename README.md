@@ -30,6 +30,7 @@
 * Toy Theater - http://toytheater.com
 
 ## Science
+* NASA Kids Club - https://www.nasa.gov/kidsclub/index.html
 * Jefferson Lab Science Education - https://education.jlab.org/indexpages/elementgames.html
 * Global Weirding video series with Dr. Katharine Hayhoe - https://www.youtube.com/channel/UCi6RkdaEqgRVKi3AzidF4ow
 
@@ -41,8 +42,9 @@
 * Houston Zoo animal cams - https://www.houstonzoo.org/explore/webcams/
 * Georgia Aquarium live cams - https://www.georgiaaquarium.org/webcam/jelly-webcam/
 * Farm tours - https://www.farmfood360.ca
-* Yellowstone National Park virtual tours - https://www.nps.gov/yell/learn/photosmultimedia/virtualtours.htm
 * Google's Open Heritage (tours of iconic locations) - https://artsandculture.google.com/project/openheritage
+* Yellowstone National Park virtual tours - https://www.nps.gov/yell/learn/photosmultimedia/virtualtours.htm
+* Google Earth's Virtual Tours of National Parks - http://g.co/earth/nationalparks
 
 ## Museum Tours
 * Google's Museum Views - https://artsandculture.google.com/search/streetview?project=streetviews
