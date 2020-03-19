@@ -9,6 +9,9 @@
 * [access ebooks from CPS library](https://chesapeakeps.follettdestiny.com/common/servlet/presenthomeform.do?l2m=Home&tm=Home&l2m=Home)
 
 ## Misc Educational 
+* Crash Course YouTube channel - https://www.youtube.com/user/crashcourse/featured <br/>
+"Nicole Sweeney teaches you sociology, Carrie Anne Philbin teaches you computer science, Craig Benzine teaches film history, and Mike Rugnetta is teaching mythology!"
+  * World History #1 - https://www.youtube.com/watch?v=Yocja_N5s1I&list=PLBDA2E52FB1EF80C9
 * PBS Learning Modules - https://www.pbslearningmedia.org/student/
 * ABCya! - https://www.abcya.com/
 * Scholastic Learn at Home - https://classroommagazines.scholastic.com/support/learnathome.html
@@ -33,6 +36,8 @@
 * NASA Kids Club - https://www.nasa.gov/kidsclub/index.html
 * Jefferson Lab Science Education - https://education.jlab.org/indexpages/elementgames.html
 * Global Weirding video series with Dr. Katharine Hayhoe - https://www.youtube.com/channel/UCi6RkdaEqgRVKi3AzidF4ow
+* Physics Girl YouTube channel - https://www.youtube.com/user/physicswoman <br/>
+"adventures into the physical sciences with experiments, demonstrations, and cool new discoveries"
 
 ## Virtual Field Trips
 * San Diego Zoo - https://kids.sandiegozoo.org/
