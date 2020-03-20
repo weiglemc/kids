@@ -39,6 +39,10 @@
 * Physics Girl YouTube channel - https://www.youtube.com/user/physicswoman <br/>
 "adventures into the physical sciences with experiments, demonstrations, and cool new discoveries"
 
+## History
+* Pamplin Historical Park (Petersburg, VA) - https://pamplinpark.org
+* Virginia Historical Virtual Tours - https://blog.virginia.org/2020/03/virginia-virtual-tours/
+
 ## Virtual Field Trips
 * San Diego Zoo - https://kids.sandiegozoo.org/
   * live animal cams - https://zoo.sandiegozoo.org/live-cams
