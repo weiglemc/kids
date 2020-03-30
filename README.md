@@ -1,26 +1,27 @@
 # Kids Educational Resources
 
 ## Chesapeake Public Schools Learning Plans
-* https://cpschools.com/emergency-learning-plans/
-* Second Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-2.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Second-Grade-Math-Final.pdf">Math</a>
-* Third Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/Learning-Plan-Third-Grade-Reading-Combined.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Third-Grade-Math-Final.pdf">Math</a>
-* Fifth Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/CPS-Reading-Plan-Grade-5_Combined.pdf">Reading</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/Emergency-Closing-Learning-Plan-for-Fifth-Grade-Math-Final.pdf">Math</a>
-* Sixth Grade: <a href="https://cpschools.com/wp-content/uploads/2020/03/Math-6-Emergency-Closing-Learning-Plan.pdf">Math</a>, <a href="https://cpschools.com/wp-content/uploads/2020/03/MIDDLE-SCHOOL-ENGLISH-EMERGENCY-CLOSING-LEARNING-PLAN-.pdf">English</a>
+* https://cpschools.com/continuity-of-learning/
+* [Phase II - Second Grade](https://cpschools.com/wp-content/uploads/2020/03/Second-Grade-Weeks-3-_-4.pdf)
+* [Phase II - Fifth Grade](https://cpschools.com/wp-content/uploads/2020/03/Fifth-Grade-Weeks-3-_-4.pdf)
+
+## Reading
 * [access ebooks from CPS library](https://chesapeakeps.follettdestiny.com/common/servlet/presenthomeform.do?l2m=Home&tm=Home&l2m=Home)
+* [National Emergency Library](https://archive.org/details/nationalemergencylibrary) from Internet Archive
+* [ReadTheory](https://readtheory.org)
+* Celebrities read stories - https://www.storylineonline.net/ (use the Vimeo player for ad-free)
+* International Children's Reading Library - http://en.childrenslibrary.org/
 
 ## Misc Educational 
+* [Khan Academy](https://www.khanacademy.org)
 * Crash Course YouTube channel - https://www.youtube.com/user/crashcourse/featured <br/>
 "Nicole Sweeney teaches you sociology, Carrie Anne Philbin teaches you computer science, Craig Benzine teaches film history, and Mike Rugnetta is teaching mythology!"
-  * World History #1 - https://www.youtube.com/watch?v=Yocja_N5s1I&list=PLBDA2E52FB1EF80C9
+  * Crash Course Kids - https://www.youtube.com/user/crashcoursekids
 * PBS Learning Modules - https://www.pbslearningmedia.org/student/
 * ABCya! - https://www.abcya.com/
 * Scholastic Learn at Home - https://classroommagazines.scholastic.com/support/learnathome.html
 * List of educational resources available the [Internet Archive](https://www.archive.org) - https://blog.archive.org/2020/03/11/schools-out-or-is-it/
 * Old-school educational games at the Internet Archive (including [Oregon Trail](https://archive.org/details/msdos_Oregon_Trail_The_1990) and [Where in the World is Carmen Sandiego](https://archive.org/details/msdos_Where_in_the_World_is_Carmen_Sandiego_Enhanced_1989)!) - https://archive.org/details/softwarelibrary_kids
-
-## Reading 
-* Celebrities read stories - https://www.storylineonline.net/ (use the Vimeo player for ad-free)
-* International Children's Reading Library - http://en.childrenslibrary.org/
 
 ## Math
 * Illuminations (National Council of Teachers of Math) - https://illuminations.nctm.org
