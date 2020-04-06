@@ -28,6 +28,7 @@
   * [Mavis Beacon Teaching Typing](https://archive.org/details/msdos_Mavis_Beacon_Teaches_Typing_1987) at Internet Archive
 
 ## Math
+* Progidy Math - https://www.prodigygame.com
 * Illuminations (National Council of Teachers of Math) - https://illuminations.nctm.org
 * Arithmetic Four - http://www.shodor.org/interactivate/activities/ArithmeticFour/
 * Figure Four - https://figurethis.nctm.org/index.html
