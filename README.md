@@ -24,8 +24,8 @@
 * Old-school educational games at the Internet Archive (including [Oregon Trail](https://archive.org/details/msdos_Oregon_Trail_The_1990) and [Where in the World is Carmen Sandiego](https://archive.org/details/msdos_Where_in_the_World_is_Carmen_Sandiego_Enhanced_1989)!) - https://archive.org/details/softwarelibrary_kids
 * Music - [Bass Clef exercises](http://www.krammermusic.com/index.php?option=com_content&view=article&id=121&Itemid=150)
 * Typing
- * https://www.typing.com/student/games
- * [Mavis Beacon Teaching Typing](https://archive.org/details/msdos_Mavis_Beacon_Teaches_Typing_1987) at Internet Archive
+  * https://www.typing.com/student/games
+  * [Mavis Beacon Teaching Typing](https://archive.org/details/msdos_Mavis_Beacon_Teaches_Typing_1987) at Internet Archive
 
 ## Math
 * Illuminations (National Council of Teachers of Math) - https://illuminations.nctm.org
